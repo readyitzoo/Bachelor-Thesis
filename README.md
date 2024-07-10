@@ -14,6 +14,11 @@ We analyzed data from Yahoo Finance, focusing on stock metrics such as opening, 
 ## Results and Evaluation
 Model performance was evaluated using Mean Squared Error (MSE) among other metrics. Despite its complexity, the LSTM model showed promise in capturing long-term data dependencies. Comparative analysis indicated that while simple models like Linear and Lasso Regression provided foundational insights, LSTM offered deeper understanding thanks to its deep learning capabilities.
 
+![Best_result](Images/Best_result.png "Best_result")
+
+
+![Results_compared](Images/Results_compared.png "Results_compared")
+
 ## Possible Improvements
 Future enhancements could include:
 - Integrating more granular data, such as minute-by-minute price changes.
