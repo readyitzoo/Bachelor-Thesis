@@ -8,6 +8,7 @@ The primary aim is to predict the stock prices of Netflix Inc by employing machi
 
 ## Data Analysis and Model Implementation
 We analyzed data from Yahoo Finance, focusing on stock metrics such as opening, closing, highs, lows, and trading volumes. Models were trained using Python with libraries including NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, and Keras. The LSTM network was highlighted for its efficacy in sequential prediction problems, making it ideal for time-series forecasting like stock prices.
+
 ![Dataset](Images/Dataset.png "Dataset")
 
 ## Results and Evaluation
